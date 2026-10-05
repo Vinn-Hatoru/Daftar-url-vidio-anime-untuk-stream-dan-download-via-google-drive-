@@ -1,1 +1,19 @@
+{
+  "judul": "Nama Serial Anda",
+  "seasons": [
+    {
+      "season_ke": 1,
+      "episodes": [
+        { "no": 1, "url": "https://example.com" },
+        { "no": 2, "url": "https://example.com" }
+      ]
+    },
+    {
+      "season_ke": 2,
+      "episodes": [
+        { "no": 1, "url": "https://example.com" }
+      ]
+    }
+  ]
+}
 
